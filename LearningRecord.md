@@ -25,7 +25,7 @@
 ->日本語化されたEclipseのダウンロードページ
 - [Java環境構築(Windows版)](https://www.techfun.co.jp/service/magazine/java/windows-jdk-install.html)  
 ->Javaの環境構築(JDKのインストール、パス設定、Eclipseのダウンロード)
-- [7zip] (https://sevenzip.osdn.jp/)  
+- [7zip](https://sevenzip.osdn.jp/)  
 ->7zipのダウンロードページ
 
 ---
