@@ -21,6 +21,10 @@
 - Javaの勉強に時間を要してしまい、AWSの勉強はほとんどできなかったので、時間配分をしっかり考えていきたい
 - AWSのS3でログを保存していたが、2日で月の無料利用枠の90％を超えたので、立てて、その日の内に削除するほうがいいなと思った
 ##### 参考になったページ  
+- [これだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座（SAA-C02試験対応版）](https://www.udemy.com/course/aws-associate/)  
+->使用している教材
+- [一週間で身につくJava言語](https://www.udemy.com/course/java-jhu/)  
+->使用している教材
 - [mergedoc](https://mergedoc.osdn.jp/)  
 ->日本語化されたEclipseのダウンロードページ
 - [Java環境構築(Windows版)](https://www.techfun.co.jp/service/magazine/java/windows-jdk-install.html)  
